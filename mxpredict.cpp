@@ -1,12 +1,8 @@
 #include "mxpredict.h"
 #include <QObject>
-#include <QFile>
-#include <QDebug>
 #include <QImage>
 #include <QString>
-#include <QIODevice>
 #include <Qt>
-#include <QTransform>
 #include <fstream>
 #include <iostream>
 #include "bufferfile.h"
